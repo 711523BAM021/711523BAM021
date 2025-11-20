@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner" width="100%" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <strong>AI & ML Enthusiast | Tech Explorer</strong>
+</p>
 #  About Me:
 Hi! I’m a 3rd-year Computer Science (AI & ML) student at KIT – Kalaignar Karunanidhi Institute of Technology. I’m passionate about using Artificial Intelligence and Machine Learning to solve real-world problems. I have hands-on experience with HTML, CSS and basic javascript.I enjoy coding in Python, C, and Basic java and I love exploring new technologies to improve my skills and creativity.
 
