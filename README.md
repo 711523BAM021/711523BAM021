@@ -15,4 +15,6 @@ Hi! I’m a 3rd-year Computer Science (AI & ML) student at KIT – Kalaignar Kar
 ---
 [![](https://visitcount.itsvg.in/api?id=711523BAM021&icon=1&color=1)](https://visitcount.itsvg.in)
 
+https://www.canva.com/design/DAG5OZX07mI/MyVrkMk4y0mM2gr_FFvFIA/edit?utm_content=DAG5OZX07mI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
