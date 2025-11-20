@@ -1,4 +1,5 @@
-<!-- HEADER -->
+<div style="background:#0a1a3c; padding:30px; border-radius:15px; border:2px solid #f7c843;">
+
 <div align="center">
 
 # <span style="color:#f7c843;">✨ Gowthamraj B</span>
@@ -13,13 +14,12 @@
 # <span style="color:#f7c843;">📘 About Me</span>
 
 Hi! I’m a **3rd-year Computer Science (AI & ML)** student at **KIT – Kalaignar Karunanidhi Institute of Technology**.  
-I’m passionate about creating real-world projects using **Artificial Intelligence**, **Machine Learning**, and **IoT**.
+I’m passionate about creating real-world projects using **AI**, **Machine Learning**, and **IoT**.
 
-I have hands-on experience with:
-
-- **HTML, CSS, basic JavaScript**
+I have experience with:
+- **HTML, CSS, JavaScript**
 - **Python, C, Java**
-- Exploring new technologies to improve creativity and innovation
+- **Tech exploration & creative problem solving**
 
 ---
 
@@ -50,11 +50,9 @@ I have hands-on experience with:
 
 # <span style="color:#f7c843;">📊 GitHub Stats</span>
 
-![](https://github-readme-stats.vercel.app/api?username=711523BAM021&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)
-
+![](https://github-readme-stats.vercel.app/api?username=711523BAM021&theme=blue_navy&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=711523BAM021&theme=blue_navy&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=711523BAM021&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=711523BAM021&theme=blue_navy&hide_border=true&layout=compact)
 
 ---
 
@@ -62,12 +60,8 @@ I have hands-on experience with:
 
 [![](https://visitcount.itsvg.in/api?id=711523BAM021&icon=1&color=1)](https://visitcount.itsvg.in)
 
-</div>
-
----
-
-<div align="center">
-
 ### <span style="color:#9ec3ff;">⭐ Thanks for visiting my profile!</span>
+
+</div>
 
 </div>
