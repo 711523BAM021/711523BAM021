@@ -7,7 +7,7 @@
 </p>
 
 ##  About Me:
-Hi! I’m a 3rd-year Computer Science (AI & ML) student at  <br>KIT – Kalaignar Karunanidhi Institute of Technology.<br><br>I’m passionate about applying Artificial Intelligence and Machine Learning to solve real-world problems.<br><br>Skills and Interests:<br>- HTML, CSS, Basic JavaScript  <br>- Python, C, Java (Basics)  <br>- AI, ML and IoT projects  <br>- Exploring new technologies continuously<br>
+Hi! I’m a Final year Computer Science (AI & ML) student at  <br>KIT – Kalaignar Karunanidhi Institute of Technology.<br><br>I’m passionate about applying Artificial Intelligence and Machine Learning to solve real-world problems.<br><br>Skills and Interests:<br>- HTML, CSS, Basic JavaScript  <br>- Python, C, Java (Basics)  <br>- AI, ML and IoT projects  <br>- Exploring new technologies continuously<br>
 
 
 ##  Socials:
